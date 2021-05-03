@@ -1,0 +1,33 @@
+h1 {
+    color: palevioletred;
+    font-size: 48px;
+}
+
+a {
+    font-size: 24px;
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body {
+    text-align: center;
+}
+
+section {
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+}
+
+.new-section {
+    background-color: lightgrey;
+}
